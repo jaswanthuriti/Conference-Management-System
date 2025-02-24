@@ -92,4 +92,4 @@ The system follows a multi-tiered architecture:
 
 ### 📧 Contact
 
-For questions or support, please contact [your-email@example.com](mailto:jaswanthuriti@gmail.com)
+For questions or support, please contact [jaswanthuriti@gmail.com](mailto:jaswanthuriti@gmail.com)
