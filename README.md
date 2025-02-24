@@ -1,6 +1,5 @@
 # Conference-Management-System
 # 🎓 Conference Management System (CMS)
-
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
@@ -35,20 +34,23 @@ A robust, full-featured platform designed to streamline the entire academic conf
 
 ## 🛠️ Technology Stack
 
-### Frontend
-- HTML5, CSS3, JavaScript
-- Responsive design with Bootstrap
-- Interactive components with jQuery
+### Programming Languages:
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend
-- Java Servlets for HTTP request handling
-- JSP for dynamic content generation
-- RESTful API architecture
+### Web Technologies:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Database
-- MySQL for relational data storage
-- Optimized indexing for query performance
-- Transaction management for data integrity
+### Backend:
+![Java Servlets](https://img.shields.io/badge/JAVA_SERVLETS-007396?style=for-the-badge&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTFUL_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Database:
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🏗️ Architecture
 
@@ -61,35 +63,31 @@ The system follows a multi-tiered architecture:
 
 ## 🔒 Security Implementations
 
-- Password hashing using BCrypt
-- Form validation against XSS and SQL injection
-- Session management with secure cookies
-- HTTPS protocol enforcement
-- CSRF token protection
-
+![Password Hashing](https://img.shields.io/badge/PASSWORD_HASHING-6C3483?style=for-the-badge&logo=bcrypt&logoColor=white)
+![XSS Protection](https://img.shields.io/badge/XSS_PROTECTION-2E86C1?style=for-the-badge&logo=security&logoColor=white)
+![SQL Injection](https://img.shields.io/badge/SQL_INJECTION_PROTECTION-2471A3?style=for-the-badge&logo=security&logoColor=white)
+![Session Management](https://img.shields.io/badge/SESSION_MANAGEMENT-1ABC9C?style=for-the-badge&logo=security&logoColor=white)
+![HTTPS](https://img.shields.io/badge/HTTPS-16A085?style=for-the-badge&logo=https&logoColor=white)
+![CSRF Protection](https://img.shields.io/badge/CSRF_PROTECTION-138D75?style=for-the-badge&logo=security&logoColor=white)
 
 ## 💻 Development Environment
 
-- **IDE**: NetBeans 8.1
-- **Database Tools**: MySQL Workbench
-- **Server**: Apache Tomcat 8.5
-- **Build Tool**: Maven
+![NetBeans](https://img.shields.io/badge/NETBEANS-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MYSQL_WORKBENCH-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/APACHE_TOMCAT-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Maven](https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ## 📋 Requirements
-
 - JDK 8 or higher
 - MySQL 5.7 or higher
 - Apache Tomcat 8.0+
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 
 ## 🔮 Future Roadmap
-
 - Mobile app integration
 - AI-powered paper matching
 - Virtual conference hosting capabilities
 - Blockchain-based certificate generation
 
-
 ### 📧 Contact
-
 For questions or support, please contact [jaswanthuriti@gmail.com](mailto:jaswanthuriti@gmail.com)
